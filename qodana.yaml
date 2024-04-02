@@ -1,0 +1,5 @@
+version: 1.0
+plugins:
+  - id: org.move.lang
+include:
+  - name: IncorrectFormatting
